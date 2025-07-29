@@ -2,14 +2,14 @@
 ## Available functionality
 
 This library allows to make payments using [PaynetEasy Merchant API](http://doc.payneteasy.com/). For now, the following payment methods are implemented:
-- [x] [Account Verification](https://doc.payneteasy.com/integration/api_use_cases/server_to_server_account_verification.html)
-- [x] [Sale Transactions](https://doc.payneteasy.com/integration/api_use_cases/server_to_server_sale.html)
-- [x] [Preauth/Capture Transactions](https://doc.payneteasy.com/integration/api_use_cases/server_to_server_preauth_capture_and_cancel.html)
-- [x] [Transfer Transactions](https://doc.payneteasy.com/integration/api_use_cases/server_to_server_transfer.html)
-- [x] [Return Transactions](https://doc.payneteasy.com/integration/api_use_cases/return_transaction.html)
-- [x] [Recurrent Transactions](https://doc.payneteasy.com/integration/api_use_cases/recurring_sale.html)
-- [x] [Payment Form Integration](https://doc.payneteasy.com/integration/api_use_cases/sale_form.html)
-- [x] [Connecting Party Callbacks](https://doc.payneteasy.com/integration/API_commands/merchant_callback_parameters.html)
+- [x] [Account Verification](https://doc.payneteasy.eu/integration/api_use_cases/server_to_server_account_verification.html)
+- [x] [Sale Transactions](https://doc.payneteasy.eu/integration/api_use_cases/server_to_server_sale.html)
+- [x] [Preauth/Capture Transactions](https://doc.payneteasy.eu/integration/api_use_cases/server_to_server_preauth_capture_and_cancel.html)
+- [x] [Transfer Transactions](https://doc.payneteasy.eu/integration/api_use_cases/server_to_server_transfer.html)
+- [x] [Return Transactions](https://doc.payneteasy.eu/integration/api_use_cases/return_transaction.html)
+- [x] [Recurrent Transactions](https://doc.payneteasy.eu/integration/api_use_cases/recurring_sale.html)
+- [x] [Payment Form Integration](https://doc.payneteasy.eu/integration/api_use_cases/sale_form.html)
+- [x] [Connecting Party Callbacks](https://doc.payneteasy.eu/integration/API_commands/merchant_callback_parameters.html)
 
 ## System requirements
 
